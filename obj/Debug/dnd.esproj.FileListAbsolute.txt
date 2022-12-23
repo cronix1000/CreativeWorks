@@ -1,0 +1,2 @@
+C:\Users\idang\source\repos\dnd\dnd\obj\Debug\dnd.esproj.SuggestedBindingRedirects.cache
+C:\Users\idang\source\repos\dnd\dnd\obj\Debug\dnd.esproj.CoreCompileInputs.cache
